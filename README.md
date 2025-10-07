@@ -116,17 +116,10 @@ dataMahasiswa/
 ## 👨‍💻 Pengembang
 
 **Meilian Ririn Anggani**  
-💬 *“Koding bukan sekadar logika, tapi juga seni dalam menyelesaikan masalah.”*  
+💬 *“coding bikin gila.”*  
 
 🌐 [GitHub](https://github.com/rirriin)  
 📧 meilian237650@student.smkn1kandeman.sch.id
-
----
-
-## 🪪 Lisensi
-
-Proyek ini dilindungi oleh **[MIT License](LICENSE)**.  
-Silakan digunakan dan dimodifikasi untuk kebutuhan pembelajaran atau proyek pribadi.
 
 ---
 
