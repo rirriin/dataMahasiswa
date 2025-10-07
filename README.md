@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suryosaputro/dataMahasiswa/main/UI%20UX/banner.png" width="100%" alt="dataMahasiswa Banner"/>
+  <img src="https://raw.githubusercontent.com/rirriin/dataMahasiswa/main/UI%20UX/banner.png" width="100%" alt="dataMahasiswa Banner"/>
 </p>
 
 <h1 align="center">🎓 dataMahasiswa</h1>
@@ -53,7 +53,7 @@ Didesain dengan antarmuka **modern dan responsif**, cocok untuk kebutuhan sekola
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/suryosaputro/dataMahasiswa.git
+   git clone https://github.com/rirriin/dataMahasiswa.git
    ```
 
 2. **Masuk ke folder proyek**
@@ -109,17 +109,17 @@ dataMahasiswa/
 
 | Dashboard | Data Mahasiswa |
 |------------|----------------|
-| ![Dashboard](UI%20UX/dashboard.png) | ![Data Mahasiswa](UI%20UX/tabel.png) |
+| ![Dashboard](UI%20UX/dashboard.png) | ![Data Mahasiswa](UI%20UX/tables.png) |
 
 ---
 
 ## 👨‍💻 Pengembang
 
-**Suryo Saputro**  
+**Meilian Ririn Anggani**  
 💬 *“Koding bukan sekadar logika, tapi juga seni dalam menyelesaikan masalah.”*  
 
-🌐 [GitHub](https://github.com/suryosaputro)  
-📧 suryosaputro@example.com *(optional)*
+🌐 [GitHub](https://github.com/rirriin)  
+📧 meilian237650@student.smkn1kandeman.sch.id
 
 ---
 
@@ -130,4 +130,4 @@ Silakan digunakan dan dimodifikasi untuk kebutuhan pembelajaran atau proyek prib
 
 ---
 
-<p align="center">✨ Dibuat dengan semangat dan kopi oleh <b>Suryo Saputro</b> ✨</p>
+<p align="center">✨ Dibuat dengan semangat dan kopi oleh <b>Meilian Ririn Anggani</b> ✨</p>
