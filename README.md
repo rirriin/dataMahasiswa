@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rirriin/dataMahasiswa/main/UI%20UX/banner.png" width="100%" alt="dataMahasiswa Banner"/>
+  <img src="https://github.com/rirriin/dataMahasiswa/edit/main/UI%20UX/banner.png" width="100%" alt="dataMahasiswa Banner"/>
 </p>
 
 <h1 align="center">🎓 dataMahasiswa</h1>
